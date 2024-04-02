@@ -1,6 +1,6 @@
 # Continual Momentum Filtering on Parameter Space for Online Test-time Adaptation
 
-Continual Momentum Filtering (CMF) is a novel approach to bolster the OTTA methodology. CMF infers a refined source model through target model denoising by leveraging the Kalman filter. The refined source model is ensembled with the target model for the OTTA procedure. By streamlining the Kalman filter algorithm, the computational overheads were minimized, underpinning the pragmatic nature of the CMF.
+This repository contains code for the ICLR 2024 paper, [Continual Momentum Filtering on Parameter Space for Online Test-time Adaptation](https://openreview.net/pdf?id=BllUWdpIOA). Continual Momentum Filtering (CMF) is a novel approach to bolster the OTTA methodology. CMF infers a refined source model through target model denoising by leveraging the Kalman filter. The refined source model is ensembled with the target model for the OTTA procedure. By streamlining the Kalman filter algorithm, the computational overheads were minimized, underpinning the pragmatic nature of the CMF.
 
 <img src="fig/Fig1.png" width="" style="background-color:white;"/>
 
